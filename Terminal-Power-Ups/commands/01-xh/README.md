@@ -1,6 +1,6 @@
-# comando `xh`
+# comando xh
 
-## 🚀 La Alternativa Moderna y Amigable a `curl`
+## 🚀 La Alternativa Moderna y Amigable a curl
 
 `xh` es un cliente HTTP de línea de comandos escrito en Rust, diseñado para ser una alternativa más rápida, amigable y ergonómica que `curl`. Su objetivo es hacer que la interacción con APIs y servicios web desde la terminal sea lo más simple y placentera posible.
 
